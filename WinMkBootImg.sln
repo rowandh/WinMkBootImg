@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMkBootImg", "WinMkBootImg\WinMkBootImg.csproj", "{81337BA7-2E48-41D1-B1AE-930EDA4B16CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02DEF675-B047-42AA-8D79-19DD69B57127}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81337BA7-2E48-41D1-B1AE-930EDA4B16CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81337BA7-2E48-41D1-B1AE-930EDA4B16CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81337BA7-2E48-41D1-B1AE-930EDA4B16CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81337BA7-2E48-41D1-B1AE-930EDA4B16CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
